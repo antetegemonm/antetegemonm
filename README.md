@@ -15,7 +15,7 @@
 <p align="left"
 
 * Software development at Robert Bosch Brasil
-* First class in Systems development in Senai Roberto Mange
+* First class in Systems development at Senai Roberto Mange
 * technician in Systems development by Etec
 
 ###
