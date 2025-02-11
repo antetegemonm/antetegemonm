@@ -1,21 +1,45 @@
- Alex Luna Pinheiro
 
 
+<h1 align="left">About me</h1>
 
-## Sobre mim
+###
 
+<p align="left">I'm a software developer based in Brazil. I like to program both front-end and back-end projects for mobile devices or desktops.</p>
 
+###
 
+<h2 align="left">About me</h2>
 
-*Sou uma pessoa esforçada, de fácil aprendizado. Estou estudando Desenvolvimento de sistemas  no Senai Roberto Mange, e participo do programa ETS na BOSCH, como desenvolvedor de software.*  
+###
 
+<p align="left"
 
-## Competências
+* Software development at Robert Bosch Brasil
+* First class in Systems development in Senai Roberto Mange
+* technician in Systems development by Etec
 
+###
 
+<h2 align="left">I code with</h2>
 
-* Html - CSS - JavaScript!
-* C# .NET
-* C++
-* Sql
-* Node
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+    <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img width="12" />
+    <img src=" https://cdn.worldvectorlogo.com/logos/css-3.svg" height="40" alt="react logo"  />
+  <img width="12" />
+   <img width="12" />
+    <img src=" https://cdn.worldvectorlogo.com/logos/c--4.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  
+ 
+  
+</div>
+
+###
